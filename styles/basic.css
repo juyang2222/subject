@@ -1,0 +1,95 @@
+header h1 {
+  font-size: 75px;
+  text-align: center;
+  font-family: "Oswald";
+  color: rgb(104, 11, 192);
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 110px;
+  margin: 100px auto 0px auto;
+  margin-top: -30px;
+}
+
+body {
+  background-color: rgb(206, 201, 211);
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+main {
+  background-color: rgb(138, 93, 180);
+  border-radius: 10px;
+  text-align: left;
+  margin: 30px 40px 30px 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+p {
+  color: aliceblue;
+  font-size: large;
+  font-family: "Oswald";
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+main p {
+  color: aliceblue;
+  font-size: large;
+  font-family: "Oswald";
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+li {
+  color: rgb(255, 255, 255);
+  font-size: large;
+  font-family: "Oswald";
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  list-style: none;
+  padding-left: 10px;
+}
+
+.subject {
+  color: aliceblue;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+span li {
+  color: rgb(251, 239, 171);
+  border-left: 5px solid rgb(247,209,85);
+  font-size: large;
+  font-family: "Oswald";
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+#pdf {
+  background-color: rgb(255, 212, 22);
+  border-radius: 3px;
+  padding: 10px 7px;
+  color: black;
+  margin-bottom: 300px;
+  margin-top: 100px;
+}
+
+a {
+  background-color: rgb(251, 239, 171);
+  border-radius: 3px;
+  padding: 0px 4px;
+  text-decoration: none;
+  color: black;
+}
+
+#me{
+    color: rgb(7, 35, 78);
+}
